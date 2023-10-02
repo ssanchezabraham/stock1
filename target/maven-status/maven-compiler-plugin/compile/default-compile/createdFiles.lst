@@ -1,0 +1,17 @@
+com/ssa/stockProject/service/VentaService.class
+com/ssa/stockProject/controller/ProductoController.class
+com/ssa/stockProject/repository/ProductoRepository.class
+com/ssa/stockProject/controller/VentaController.class
+com/ssa/stockProject/model/Producto.class
+com/ssa/stockProject/controller/PrecioVentaController.class
+com/ssa/stockProject/repository/DetalleVentaRepository.class
+com/ssa/stockProject/service/DetalleVentaService.class
+com/ssa/stockProject/model/DetalleVenta.class
+com/ssa/stockProject/service/PrecioVentaService.class
+com/ssa/stockProject/model/PrecioVenta.class
+com/ssa/stockProject/service/ProductoService.class
+com/ssa/stockProject/model/Venta.class
+com/ssa/stockProject/repository/PrecioVentaRepository.class
+com/ssa/stockProject/repository/VentaRepository.class
+com/ssa/stockProject/controller/DetalleVentaController.class
+com/ssa/stockProject/StockProjectApplication.class

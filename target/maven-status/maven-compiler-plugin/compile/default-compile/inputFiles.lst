@@ -1,0 +1,17 @@
+/home/santi/projects/stockProject/src/main/java/com/ssa/stockProject/service/PrecioVentaService.java
+/home/santi/projects/stockProject/src/main/java/com/ssa/stockProject/StockProjectApplication.java
+/home/santi/projects/stockProject/src/main/java/com/ssa/stockProject/service/DetalleVentaService.java
+/home/santi/projects/stockProject/src/main/java/com/ssa/stockProject/repository/PrecioVentaRepository.java
+/home/santi/projects/stockProject/src/main/java/com/ssa/stockProject/controller/PrecioVentaController.java
+/home/santi/projects/stockProject/src/main/java/com/ssa/stockProject/service/ProductoService.java
+/home/santi/projects/stockProject/src/main/java/com/ssa/stockProject/model/PrecioVenta.java
+/home/santi/projects/stockProject/src/main/java/com/ssa/stockProject/service/VentaService.java
+/home/santi/projects/stockProject/src/main/java/com/ssa/stockProject/model/Producto.java
+/home/santi/projects/stockProject/src/main/java/com/ssa/stockProject/controller/ProductoController.java
+/home/santi/projects/stockProject/src/main/java/com/ssa/stockProject/repository/DetalleVentaRepository.java
+/home/santi/projects/stockProject/src/main/java/com/ssa/stockProject/model/DetalleVenta.java
+/home/santi/projects/stockProject/src/main/java/com/ssa/stockProject/repository/VentaRepository.java
+/home/santi/projects/stockProject/src/main/java/com/ssa/stockProject/repository/ProductoRepository.java
+/home/santi/projects/stockProject/src/main/java/com/ssa/stockProject/model/Venta.java
+/home/santi/projects/stockProject/src/main/java/com/ssa/stockProject/controller/VentaController.java
+/home/santi/projects/stockProject/src/main/java/com/ssa/stockProject/controller/DetalleVentaController.java
